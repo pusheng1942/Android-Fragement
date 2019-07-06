@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragementAPP</string>
+    <string name="title">Fragement</string>
+    <string name="content_before">Before Clicked</string>
+    <string name="content_after">After Clicked</string>
+    <string name="button">More News</string>
+</resources>
